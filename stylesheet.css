@@ -1,0 +1,202 @@
+h1 {
+    text-align: center;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 100px;
+    color: white;
+    position: relative; top: 10px;
+}
+h1:hover {
+    background-color: green;
+}
+body {
+    background-color:black;
+}
+#summer{
+    position: relative; top: 30px; left: 1500px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white;
+}
+#drum-and-bass{
+    position: relative; top: 30px; left: 1700px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white;
+}
+#rock{
+    position: relative; top: 30px; left: 1300px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white;
+}
+#feedback{
+    position: relative; top: 400px; left: 750px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white
+}
+#pfeedback{
+    position: relative; top: 415px; left: 1100px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-style: italic;
+    color: white
+}
+a:hover{
+    background-color:green;
+}
+#tbl-rock{
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    color: white;
+}
+th {
+    font-size: 40px;
+    text-align: center
+}
+td {
+    text-align: center
+}
+#playlist-platform{
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    position: relative; top: 10px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#submit-feedback {
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+}
+
+#submit {
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 25px;
+    padding: 10px 15px;
+    position: absolute;
+    left: 300px;
+}
+
+#SR {
+    text-indent: 105px;
+}
+
+
+.foo {
+    position: absolute;
+    left: 300px;
+    width: 700px;
+    height: 30px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+#comments {
+    position: absolute;
+    width:700px;
+    height:200px;
+    left: 300px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.bar {
+    position: absolute;
+    transform: scale(1.5);
+    left: 400px;
+    height: 22px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.baz {
+    margin-left: 290px;
+    width: 400px;
+    height: 40px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 25px;
+    vertical-align: auto;
+}
+.bud {
+    margin-left: 95px;
+    width: 400px;
+    height: 40px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 25px;
+    vertical-align: auto;
+}
+.dropbtn {
+    margin-left: 140px;
+    background-color: white;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:black;
+    padding: 5px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #ddd;
+}
+
+.dropdown-content {
+    margin-left: 290px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    min-width: 160px;
+    box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #ddd}
+.show {display:block;}
+
+#myDropdown {
+    margin-left: 140px;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+
+#myDropdown select:hover {
+    background-color: green;
+}
+
+#FeedbackInput {
+    color: white;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#StarRating {
+    color: white;
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#jsubmit {
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 10px 15px;
+    position: absolute;
+    left: 450px;
+}
